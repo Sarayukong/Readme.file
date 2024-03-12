@@ -1,7 +1,7 @@
 # Leo App Deployment
 
 ## Overview
-This guide outlines the steps to deploy the Leo app.
+The steps to deploy the Leo app.
 
 ## Prerequisites
 - Node.js installed
@@ -26,3 +26,5 @@ Once the application is running, you can invite the bot to your Discord server a
 
 ## Support
 For any inquiries or issues, please contact Virusovro#2431 on Discord.
+
+
